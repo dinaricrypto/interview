@@ -1,16 +1,11 @@
-# Voca JavaScript library
+# Interview questions
 
-Voca is a JavaScript library for manipulating strings. [https://vocajs.com][voca]
+Practical take-home exercises. Each subdirectory is a self-contained question.
 
-```javascript
-v.camelCase('bird flight');              // => 'birdFlight'
-v.sprintf('%s costs $%.2f', 'Tea', 1.5); // => 'Tea costs $1.50'
-v.slugify('What a wonderful world');     // => 'what-a-wonderful-world'
-```
+## `debug-js-voca`
 
-## Build and test instructions
+JavaScript debugging/implementation exercise.
 
-```
-npm install
-npm test
-```
+## `devops-practical-task`
+
+Practical devops exercise: building a deployment for `task.sh`
