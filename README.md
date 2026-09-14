@@ -1,6 +1,6 @@
 # Interview questions
 
-Practical take-home exercises. Each subdirectory is a self-contained question.
+Dinari interview exercises. Each subdirectory is a self-contained question.
 
 ## `debug-js-voca`
 
